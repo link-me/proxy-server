@@ -1,0 +1,12 @@
+{
+  "name": "proxy-server",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Reverse proxy on Node.js: path rewrite, cache, rate-limit, CORS, gzip, health",
+  "license": "UNLICENSED",
+  "type": "commonjs",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  }
+}
