@@ -5,3 +5,4 @@
 - 2025-06-29: Update docs
 - 2025-06-29: Add tests
 - 2025-06-30: Add feature
+- 2025-07-05: Refactor module
