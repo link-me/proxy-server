@@ -2,3 +2,4 @@
 // Enhance logging
 // Fix auth bug
 // Add tests
+// Fix auth bug
