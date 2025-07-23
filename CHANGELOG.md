@@ -12,3 +12,4 @@
 - 2025-07-21: Add tests
 - 2025-07-21: Setup CI
 - 2025-07-21: Fix auth bug
+- 2025-07-23: Update dependencies
