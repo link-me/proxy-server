@@ -13,3 +13,4 @@
 - 2025-07-21: Setup CI
 - 2025-07-21: Fix auth bug
 - 2025-07-23: Update dependencies
+- 2025-07-30: Enhance logging
