@@ -14,3 +14,4 @@
 - 2025-07-21: Fix auth bug
 - 2025-07-23: Update dependencies
 - 2025-07-30: Enhance logging
+- 2025-08-11: Improve performance
