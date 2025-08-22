@@ -16,3 +16,4 @@
 - 2025-07-30: Enhance logging
 - 2025-08-11: Improve performance
 - 2025-08-16: Update dependencies
+- 2025-08-22: Setup CI
