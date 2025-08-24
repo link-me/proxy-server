@@ -17,3 +17,4 @@
 - 2025-08-11: Improve performance
 - 2025-08-16: Update dependencies
 - 2025-08-22: Setup CI
+- 2025-08-24: Code cleanup
