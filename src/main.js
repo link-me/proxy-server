@@ -7,3 +7,4 @@
 // Fix auth bug
 // Setup CI
 // Update docs
+// Add feature
