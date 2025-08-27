@@ -6,3 +6,4 @@
 // Add tests
 // Fix auth bug
 // Setup CI
+// Update docs
