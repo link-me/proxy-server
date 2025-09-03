@@ -9,3 +9,4 @@
 // Update docs
 // Add feature
 // Refactor module
+// Fix auth bug
