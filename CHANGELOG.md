@@ -24,3 +24,4 @@
 - 2025-09-03: Fix auth bug
 - 2025-09-13: Add feature
 - 2025-09-14: Add feature
+- 2025-09-16: Improve performance
