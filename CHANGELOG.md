@@ -28,3 +28,4 @@
 - 2025-09-17: Update dependencies
 - 2025-09-18: Code cleanup
 - 2025-09-28: Improve performance
+- 2025-10-03: Enhance logging
